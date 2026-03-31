@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+
+# VSCode
+.vscode/
+
+# Firmware output
+*.bin
+*.hex
+*.elf
+*.map
+
+# Logs
+*.log
+*.tmp
+
+# C/C++
+*.o
+*.a
+*.d
+
+# OS
+.DS_Store
+Thumbs.db
