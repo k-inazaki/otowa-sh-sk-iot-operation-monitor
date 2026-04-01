@@ -18,3 +18,9 @@
 
 ## スローガン
 **変化を楽しみ、未来を創ろう**
+## Repository Structure
+```text
+circuit/
+firmware/
+software/
+
