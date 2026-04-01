@@ -18,14 +18,16 @@
 
 ## スローガン
 **変化を楽しみ、未来を創ろう**
+
 ## Repository Structure
 ```text
 circuit/
 firmware/
 software/
+test/
+release/
+```
 
-
-または画像
-
-```markdown
+## システムイメージ
 ![system](test/default.png)
+
